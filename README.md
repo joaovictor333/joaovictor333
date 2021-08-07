@@ -1,4 +1,4 @@
-### Olá! meu nome é João victor
+### Olá! meu nome é João
  - Iniciante em Desenvolvimento Front End
 
 
