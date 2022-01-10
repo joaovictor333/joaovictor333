@@ -1,5 +1,5 @@
 ### Olá! meu nome é João
- - Estudando
+ - Estudando React
 
 
 <div style="display: inline_block"><br>
