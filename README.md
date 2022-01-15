@@ -2,7 +2,7 @@
 - 🔥 Front-End
 - ⚡ Estudando React
 
-<div style="display: flex">
+<div style="display: flex" aligen="center">
   <a href="https://github.com/joaovictor333">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictor333&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor333&layout=compact&langs_count=7&theme=dracula"/>
